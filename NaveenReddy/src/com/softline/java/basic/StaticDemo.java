@@ -6,7 +6,7 @@ class Emp{
 	static String ceo ;
 	
 	static {
-		ceo = "Veli1"; 
+		ceo = "Veli2"; 
 	}
 
 	@Override
